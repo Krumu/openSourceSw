@@ -1,6 +1,6 @@
 # openSourceSw
 ### Introduce
-I'am Kim Juyoung
+I'am Juyoung
 
 ### What is the purpose of using a git
 To reduce the complexity of your projects, we have to study Git. There are three goals of using a git. 
